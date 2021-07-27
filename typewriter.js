@@ -13,7 +13,3 @@ const returnValue = setInterval(() => {
     console.log("");
   }
 }, 50);
-
-
-
-// for (const char of sentence[i]) {
